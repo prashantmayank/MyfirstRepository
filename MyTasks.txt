@@ -3,3 +3,7 @@ M --> MongoDB
 E --> Express
 R --> React.js
 N --> Node.js
+For that i have to learn basics of
+<HTML></HTML>
+CSS
+JavaScript
