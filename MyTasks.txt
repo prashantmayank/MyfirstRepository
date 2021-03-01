@@ -7,3 +7,8 @@ For that i have to learn basics of
 <HTML></HTML>
 CSS
 JavaScript
+In addition to it i need
+C#
+ASP.Net
+
+Thank you for being here :)
