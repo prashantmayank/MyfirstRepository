@@ -1,0 +1,5 @@
+My task is to become MERN stack developer
+M --> MongoDB
+E --> Express
+R --> React.js
+N --> Node.js
